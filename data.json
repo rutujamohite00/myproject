@@ -1,0 +1,11 @@
+{
+  "name": "Rutuja Mohite",
+  "email": "rutuja@gmail.com",
+  "age": 25,
+  "skills": ["HTML", "CSS", "JavaScript", "Git"],
+  "isActive": true,
+  "address": {
+    "city": "Pune",
+    "country": "India"
+  }
+}
